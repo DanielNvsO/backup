@@ -1,0 +1,11 @@
+C:\Projetos\Nova pasta\Gerenciamento\RepositorioGerenciamento\bin\Debug\RepositorioGerenciamento.dll
+C:\Projetos\Nova pasta\Gerenciamento\RepositorioGerenciamento\bin\Debug\RepositorioGerenciamento.pdb
+C:\Projetos\Nova pasta\Gerenciamento\RepositorioGerenciamento\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\Nova pasta\Gerenciamento\RepositorioGerenciamento\bin\Debug\System.Data.SqlClient.dll
+C:\Projetos\Nova pasta\Gerenciamento\RepositorioGerenciamento\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\Nova pasta\Gerenciamento\RepositorioGerenciamento\bin\Debug\System.Data.SqlClient.xml
+C:\Projetos\Nova pasta\Gerenciamento\RepositorioGerenciamento\obj\Debug\RepositorioGerenciamento.csprojAssemblyReference.cache
+C:\Projetos\Nova pasta\Gerenciamento\RepositorioGerenciamento\obj\Debug\RepositorioGerenciamento.csproj.CoreCompileInputs.cache
+C:\Projetos\Nova pasta\Gerenciamento\RepositorioGerenciamento\obj\Debug\RepositorioGerenciamento.csproj.CopyComplete
+C:\Projetos\Nova pasta\Gerenciamento\RepositorioGerenciamento\obj\Debug\RepositorioGerenciamento.dll
+C:\Projetos\Nova pasta\Gerenciamento\RepositorioGerenciamento\obj\Debug\RepositorioGerenciamento.pdb

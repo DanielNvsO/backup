@@ -1,0 +1,14 @@
+C:\Users\administrador\source\repos\Gerenciamento\Repositorio\bin\Debug\netstandard2.0\Repositorio.deps.json
+C:\Users\administrador\source\repos\Gerenciamento\Repositorio\bin\Debug\netstandard2.0\Repositorio.dll
+C:\Users\administrador\source\repos\Gerenciamento\Repositorio\obj\Debug\netstandard2.0\Repositorio.csprojAssemblyReference.cache
+C:\Users\administrador\source\repos\Gerenciamento\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\administrador\source\repos\Gerenciamento\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfo.cs
+C:\Projetos\Nova pasta\Gerenciamento\Repositorio\obj\Debug\netstandard2.0\Repositorio.csprojAssemblyReference.cache
+C:\Projetos\Nova pasta\Gerenciamento\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfoInputs.cache
+C:\Projetos\Nova pasta\Gerenciamento\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfo.cs
+C:\Projetos\Nova pasta\Gerenciamento\Repositorio\bin\Debug\netstandard2.0\Repositorio.deps.json
+C:\Projetos\Nova pasta\Gerenciamento\Repositorio\bin\Debug\netstandard2.0\Repositorio.dll
+C:\Projetos\Nova pasta\Gerenciamento\Repositorio\bin\Debug\netstandard2.0\Repositorio.pdb
+C:\Projetos\Nova pasta\Gerenciamento\Repositorio\obj\Debug\netstandard2.0\Repositorio.dll
+C:\Projetos\Nova pasta\Gerenciamento\Repositorio\obj\Debug\netstandard2.0\Repositorio.pdb
+C:\Projetos\Nova pasta\Gerenciamento\Repositorio\obj\Debug\netstandard2.0\Repositorio.csproj.CoreCompileInputs.cache
